@@ -178,4 +178,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+![](https://img.shields.io/badge/MRI%20Physics-8A2BE2) ![](https://img.shields.io/badge/Medical%20Imaging-33efff) ![](https://img.shields.io/badge/qMRI%20Metrology-e20c4e) ![](https://img.shields.io/badge/Open–source%20Software-ff5d33) ![](https://img.shields.io/badge/Data%20Standards-3389ff) ![](https://img.shields.io/badge/Reproducible%20Science-10c34e) ![](https://img.shields.io/badge/Workflows-c31084) ![](https://img.shields.io/badge/Biomechanics-cfe20c)
+
+I am a Postdoctoral Research Associate at [NeuroPoly Lab](https://neuro.polymtl.ca) at [Polytechnique Montreal](https://www.polymtl.ca/) and a Junior Fellow of the [ISMRM](https://ismrm.org). I have a background in MRI physics, software development, biomedical applications of signal theory, and musculoskeletal biomechanics. 
+
+My current research focuses on developing end-to-end measurement workflows for advanced quantitative MRI (qMRI) applications in neuroimaging, including multiparametric mapping and biophysics-driven microstructural imaging. _My primary motivation is to elevate qMRI to a metrological standard, enabling the quantification of measurement uncertainty within a reproducible multi-vendor framework._ 
