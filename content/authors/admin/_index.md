@@ -33,19 +33,23 @@ profiles:
   - icon: brands/x
     url: https://x.com/agahkarakuzu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/agahkarakuzu/
+    url: https://www.linkedin.com/in/agah-karakuzu-8bb89947
   - icon: brands/github
     url: https://github.com/agahkarakuzu
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-7283-271X
 
 interests:
   - MRI Physics
+  - Medical Imaging
   - Open-source Software
-  - qMRI Metrology
-  - Deep Learning
+  - Quantitative MRI Metrology
+  - Data Standards
+  - Reproducible Science
+  - Workflows
+  - Biomechanics
 
 education:
   - area: PhD Biomedical Engineering
@@ -53,37 +57,32 @@ education:
     date_start: 2017-01-17
     date_end: 2022-03-02
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on bringing quantitative MRI under one umbrella. Supervised by [Prof Nikola Stikov](https://www.polymtl.ca/expertises/en/stikov-nikola).
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Download Thesis'
+      url: 'https://publications.polymtl.ca/10224/1/2022_AgahKarakuzu.pdf'
   - area: MSc Biomedical Engineering
     institution: Bogazici University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-06-01
+    date_end: 2013-09-01
     summary: |
       GPA: 4.0/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on in-vivo assessment of local deformations along human medial gastrocnemius muscle fibers on submaximal plantarflexion activity. Supervised by [Prof Can A Yucesoy](https://bme.bogazici.edu.tr/en/can-yucesoy).
+    button:
+      text: 'Download Thesis'
+      url: 'https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=WBc656i315e2eV6-EZV1oieEoX22ihUylnjE_lEdgA5ILgVkGM2WFCTni-MKgmzM'
   - area: BSc Biomedical Engineering
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Erciyes University
+    date_start: 2009-09-01
+    date_end: 2013-06-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.4/4.0 | Summa cum laude
+      Dissertation: A quantitative approach to the volumetric assessment of multiple sclerosis lesions using semi-automatic segmentation of MR images.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
+  - position: Postdoctoral Research Associate
+    company_name: Polytechnique Montreal
+    company_url: https://neuro.polymtl.ca
+    company_logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgQu5sDEYjbsszAQZXcnuBXYdjnFiOmr3dww&s'
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
