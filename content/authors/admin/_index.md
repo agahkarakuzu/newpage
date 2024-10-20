@@ -178,8 +178,10 @@ awards:
 
 ## About Me
 
-![](https://img.shields.io/badge/MRI%20Physics-8A2BE2) ![](https://img.shields.io/badge/Medical%20Imaging-33efff) ![](https://img.shields.io/badge/qMRI%20Metrology-e20c4e) ![](https://img.shields.io/badge/Open–source%20Software-ff5d33) ![](https://img.shields.io/badge/Data%20Standards-3389ff) ![](https://img.shields.io/badge/Reproducible%20Science-10c34e) ![](https://img.shields.io/badge/Workflows-c31084) ![](https://img.shields.io/badge/Biomechanics-cfe20c)
-
 I am a Postdoctoral Research Associate at [NeuroPoly Lab](https://neuro.polymtl.ca) at [Polytechnique Montreal](https://www.polymtl.ca/) and a Junior Fellow of the [ISMRM](https://ismrm.org). I have a background in MRI physics, software development, biomedical applications of signal theory, and musculoskeletal biomechanics. 
 
-My current research focuses on developing end-to-end measurement workflows for advanced quantitative MRI (qMRI) applications in neuroimaging, including multiparametric mapping and biophysics-driven microstructural imaging. _My primary motivation is to elevate qMRI to a metrological standard, enabling the quantification of measurement uncertainty within a reproducible multi-vendor framework._ 
+My current research focuses on developing end-to-end measurement workflows for advanced quantitative MRI (qMRI) applications in neuroimaging, including multiparametric mapping and biophysics-driven microstructural imaging. The primary goal is to elevate qMRI to a metrological standard, enabling the quantification of measurement uncertainty within a reproducible, vendor-neutral, and open-source framework. Achieving this standard is crucial for unlocking the potential of quantitative imaging biomarkers across a new generation of MRI methods, from cutting-edge AI techniques to novel clinical protocols.
+
+This rigorous aim necessitates addressing the issue of reproducibility through a layered process. Please see the [projects](/posts/reproducibility/) page for more details.
+
+In addition to my work on qMRI, I am deeply interested in developing next-generation scientific publishing platforms that cam meet the demands of the modern scientific landscape. I am the founding developer of [NeuroLibre](https://neurolibre.org), an innovative publishing platform for interactive and reproducible research articles with live compute, leveraging cloud computing and open-source tools to transform research dissemination.
