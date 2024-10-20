@@ -2,9 +2,6 @@
 # Display name
 title: Agah Karakuzu
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Agah
 last_name: Karakuzu
