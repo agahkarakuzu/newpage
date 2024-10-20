@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Papers
-    url: /#papers
+    url: https://papers.agah.dev
     weight: 11
   - name: Talks
     url: /#talks
